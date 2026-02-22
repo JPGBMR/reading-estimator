@@ -1,5 +1,7 @@
 # Reading Estimator
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-jpgbmr.github.io-58a6ff?style=flat-square)](https://jpgbmr.github.io/reading-estimator/)
+
 Get reading time, word count, and readability stats from any text
 
 ## Tech Stack
